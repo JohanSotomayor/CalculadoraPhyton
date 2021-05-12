@@ -1,0 +1,12 @@
+def sumar(Num1,Num2):
+    Resultado= Num1+Num2
+    return Resultado
+def restar(Num1,Num2):
+    Resultado= Num1-Num2
+    return Resultado
+def multiplicar(Num1,Num2):
+    Resultado= Num1*Num2
+    return Resultado
+def dividir(Num1,Num2):
+    Resultado= Num1/Num2
+    return Resultado
